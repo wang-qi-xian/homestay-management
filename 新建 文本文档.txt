@@ -1,0 +1,2 @@
+请基于java 17，springboot3.x，vue3，MySQL（账号root，密码root，指定已有数据库homestay-management），帮我开发一款民宿预定管理平台，使用最小技术栈确保项目可运行即可，并提供测试账号和数据。
+要求：1.前后端数据库 2.多端系统的Web项目（游客，房东，管理员）
